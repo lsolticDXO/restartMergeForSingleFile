@@ -1,1 +1,1 @@
-Here is a second file.
+Here is a second file. But with some changes we want to keep !
